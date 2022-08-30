@@ -1,0 +1,1 @@
+<picture><img src="https://static.wixstatic.com/media/44ab77_63e1625f7cf446b48be6c643a29e0a87~mv2.png/v1/fill/w_1153,h_585,al_c,q_90,usm_0.66_1.00_0.01,enc_auto/44ab77_63e1625f7cf446b48be6c643a29e0a87~mv2.png" alt="" style="object-fit: cover; object-position: 50% 50%; width: 100%;"></picture>
